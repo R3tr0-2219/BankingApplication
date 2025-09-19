@@ -3,7 +3,7 @@ plugins {
 }
 
 application {
-    mainClass = 'Main'   // use full package name if inside a package
+    mainClass = 'Main'
 }
 
 group = 'com.example'
